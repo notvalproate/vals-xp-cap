@@ -1,0 +1,1 @@
+execute as @a run scoreboard players set @s val_xp_earned_today 0

@@ -1,0 +1,2 @@
+execute if entity @s[tag=!val_xp_cap_initialized] if score @s val_xp_total matches 1.. run function valproate:player/init
+execute if entity @s[tag=val_xp_cap_initialized] run function valproate:player/calculate_delta
