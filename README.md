@@ -1,4 +1,4 @@
-# Val's XP Cap
+# val's XP Cap
 
 A Minecraft datapack that limits how much experience points a player can earn within a configurable time interval. By default this pack is configured to 420 experience points per day. This equates to about level 0 to 17.5 ingame. 
 
